@@ -1,0 +1,3 @@
+tk
+
+Note: Tkinter comes pre-installed with most Python distributions. If you face issues, install it using your OS package manager.
